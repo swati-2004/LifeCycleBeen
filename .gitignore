@@ -1,0 +1,22 @@
+# Build folder
+target/
+
+# Logs
+*.log
+
+# Compiled files
+*.class
+
+# Package files
+*.jar
+*.war
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven wrapper (optional ignore nahi bhi kar sakte)
+.mvn/
+
+# Env files
+.env
