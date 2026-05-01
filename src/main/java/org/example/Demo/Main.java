@@ -6,6 +6,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 //this is main file
+//createing a main file
+// This is a comment added in feature branch
 public class Main {
     public static void main(String[] args) {
 //                ApplicationContext context=
